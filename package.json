@@ -1,0 +1,16 @@
+{
+  "name": "Node-Nano-Sized-Nutshell-Examples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bodyParser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Naveen Kumar Chandaluri",
+  "license": "ISC",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^4.16.4"
+  }
+}
